@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://junmingzha.github.io/book/index.html</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://junmingzha.github.io/2024/09/22/%E5%A6%82%E4%BD%95%E8%AE%A9google%E6%90%9C%E7%B4%A2%E5%88%B0%E4%BD%A0%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://junmingzha.github.io/2024/09/19/harvester%E5%9F%BA%E4%BA%8Ekubevirt%E7%9A%84HCI%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</loc>
     
     <lastmod>2024-09-20</lastmod>
@@ -88,7 +106,14 @@
   </url>
   
   <url>
-    <loc>https://junmingzha.github.io/tags/%E7%9B%91%E6%8E%A7/</loc>
+    <loc>https://junmingzha.github.io/tags/openvpn/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://junmingzha.github.io/tags/vpn/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -103,20 +128,6 @@
   
   <url>
     <loc>https://junmingzha.github.io/tags/chatgpt/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://junmingzha.github.io/tags/openvpn/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://junmingzha.github.io/tags/vpn/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -150,24 +161,17 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://junmingzha.github.io/tags/%E7%9B%91%E6%8E%A7/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://junmingzha.github.io/categories/%E5%BB%BA%E7%AB%99/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://junmingzha.github.io/categories/%E7%9B%91%E6%8E%A7/</loc>
-    <lastmod>2024-09-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://junmingzha.github.io/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -181,7 +185,21 @@
   </url>
   
   <url>
+    <loc>https://junmingzha.github.io/categories/%E5%A4%A7%E6%A8%A1%E5%9E%8B/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://junmingzha.github.io/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/</loc>
+    <lastmod>2024-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://junmingzha.github.io/categories/%E7%9B%91%E6%8E%A7/</loc>
     <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
